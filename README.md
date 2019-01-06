@@ -1,2 +1,2 @@
 # favicon
-Java8+Selenide+Allure
+Java8+Selenide+Allure+Junit 5
